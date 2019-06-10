@@ -1,0 +1,23 @@
+Rectangle {
+position: absolute;
+width: 671px;
+height: 551px;
+
+background:#067D3D ;
+}
+
+ Rectangle2 {
+position: absolute;
+width: 603px;
+height: 467px;
+
+background: #916146;
+}
+
+Rectangle3 {
+position: absolute;
+width: 541px;
+height: 416px;
+
+background: #2BA05A;
+}
